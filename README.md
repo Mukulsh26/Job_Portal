@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-ChatGPT
+
 Certainly! Here's a README template you can use for your GitHub repository:
 
 Job Search App
@@ -33,11 +33,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -45,16 +40,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm i`
 initialising npm pakage 
-
-### `npm install @mui/material @emotion/react @emotion/styled` 
-### `npm install @material-ui/icons`
-
-integrated material UI
-
-### `npm install react react-dom`
-
-react dom installation
-
 
 ###  `npm start`
 
