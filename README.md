@@ -17,6 +17,9 @@ React: The frontend is built using React, a popular JavaScript library for build
 API Integration: The app fetches job data from an external API using asynchronous JavaScript (async/await).
 CSS: Custom CSS styles are applied for styling the components and layout.
 
+#Deployed_URL
+(https://weekday-ui-assignment.vercel.app/)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
